@@ -9,8 +9,9 @@ G1=AllFlowers(1:40,1:4);
 G2=AllFlowers(51:90,1:4);
 G3=AllFlowers(101:140,1:4);
 B=AllFlowers(41:50,1:4);
-B=[B;AllFlowers(91:100,1:4)];
 B=[B;AllFlowers(141:150,1:4)];
+B=[B;AllFlowers(91:100,1:4)];
+
 
 n=100;
 p=4;
